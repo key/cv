@@ -1,2 +1,4 @@
-# cv
-Personal history / Resume
+# About Mitsukuni Sato
+
+- [CV](./cv.ja.md)
+- [Skills](./skills.md)
