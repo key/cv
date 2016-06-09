@@ -10,6 +10,11 @@
 |             | Java        | 1.5 years |
 |             | MySQL       | 5 years |
 |             | PHP         | 7 years |
+| Technology  | GIS*        | 6 years |
+|             | BLE         | 1 year  |
+| SCM*        | git         | 4 years |
+|             | mercurial   | 2 years |
+|             | subversion  | 3 years |
 | Database    | PostgreSQL  | 8 years |
 |             | MongoDB     | 3 years |
 |             | memcached   | 4 years | 
@@ -22,3 +27,6 @@
 |             | AWS RDS     | 4 years |
 |             | AWS Elasticache | 4 years |
 |             | Google App Engine | 1 year |
+
+- SCM = Source Code Management
+- GIS = Geographic Information System
