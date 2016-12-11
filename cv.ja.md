@@ -7,7 +7,9 @@
 
 # Objective
 
-自身が開発したプロダクトを使って、顧客に成功してもらいたい。
+スポーツ, 乗り物, IoTを中心としたビジネスに携わっていきたい。
+
+自身が開発したプロダクトを使って顧客に成功してもらいたいし、
 そのために必要なコミュニケーション、手段や段取りを常に考えて提供していきたいと思っている。
 
 
@@ -147,15 +149,18 @@ PHPおよびPostgreSQLを使用して開発した。
 - Bicycle
 - Car & Motorcycle racing
 - IoT technology
-
+- English
 
 # Reference
 
-- http://mitsukuni.org/
-- https://twitter.com/key3
-- https://jp.linkedin.com/in/mitsukunisato
-- https://github.com/key/
+- [mitsukuni.org](http://mitsukuni.org/)
+- [Twitter @key3](https://twitter.com/key3)
+- [LinkedIn](https://jp.linkedin.com/in/mitsukunisato)
+- [Github](https://github.com/key/)
+- [Qiita](https://qiita.com/key/)
 
 ## My Project
 
-- http://mybike.jp (放置中)
+- [MyBike](http://mybike.jp)
+	- 開始3ヶ月で会員3,000人、月間30,000PVを達成。
+	- サーバ運営会社のミスによりデータ消失後、放置中…
