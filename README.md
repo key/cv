@@ -1,4 +1,5 @@
 # About Mitsukuni Sato
 
-- [CV](./cv.ja.md)
+- [Profile (Japanese)](./profiles/2017_profile.ja.md)
+- [CV (Japanese)](./cv.ja.md)
 - [Skills](./skills.md)
