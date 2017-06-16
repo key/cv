@@ -13,8 +13,10 @@
 
 - 2017
     - LINE BOT AWARD さくらインターネット賞
+        - LINE上でモーターサイクルと会話できるmototrack
 - 2016
     - CES 2016 Innovation Award (Fitness, sport and biotech)
+        - ネットワーク接続性を提供するセンサデバイスを内蔵したチタニウム3Dプリント製ロードバイク
 
 ## 参考
 
