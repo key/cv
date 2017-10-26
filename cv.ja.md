@@ -7,10 +7,10 @@
 
 # Objective
 
-スポーツ, 乗り物, IoTを中心としたビジネスに携わっていきたい。
+スポーツ, 乗り物, IoTを中心としたビジネスに携わりたい。
 
 自身が開発したプロダクトを使って顧客に成功してもらいたいし、
-そのために必要なコミュニケーション、手段や段取りを常に考えて提供していきたいと思っている。
+そのために必要なコミュニケーション、手段や段取りを常に考えて提供していきたい。
 
 
 # Personal history
@@ -34,10 +34,19 @@ Linux / FreeBSDサーバの構築や運用を行う傍ら業務システムの�
 
 # Job history
 
-## Jan 2015 - Present, Freelance programmer
+## June 2016 - Present, Software Engineer at tsumug, Inc. (Freelance)
 
-独立後、Uncover Truth社で位置情報処理およびiOS向けSDKの開発、
-Cerevo社でORBITREC / RIDE-1の開発マネジメント業務を担当。
+tsumug社のT!NK（コネクティッド・ロック）向けのiOSアプリケーション、プロトコル設計を担当。
+
+トピック
+
+- 近距離無線通信技術Aferoの習得
+- LTE接続型デバイス開発技術の習得
+
+## June 2015 - Present, Project Manager at Cerevo Inc. (Freelance)
+
+自転車向けGPSデータロガーの企画、設計、マネジメントを担当。
+同時に金属焼結3Dプリントを用いたロードレーサーの開発を担当。
 
 トピック
 
@@ -45,6 +54,14 @@ Cerevo社でORBITREC / RIDE-1の開発マネジメント業務を担当。
 - センサデバイス開発技術の習得
 - IoT関連技術の習得
 
+## Apr 2015 - Jun 2017, Software Engineer at UncoverTruth (Freelance)
+
+Uncover Truth社で位置情報処理およびiOS向けSDKの開発を担当。
+
+トピック
+
+- 位置情報処理技術の導入
+- iOS向けソフトウェア・ライブラリの開発、パッケージング
 
 ## Apr 2011 - Dec 2014, CTO at Lemonade Lab, Inc.
 

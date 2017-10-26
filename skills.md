@@ -5,14 +5,17 @@
 | Language    | Japanese    | native  |
 |             | English     | daily conversation |
 | Programming | Objective-C | 3 years |
-|             | Swift       | 1 year  |
-|             | Python      | 7 years |
+|             | Swift       | 3 year  |
+|             | Python      | 8 years |
+|             | Arduino     | 1 year  |
+|             | C           | 1 year  |
+|             | C++         | 1 year  |
 |             | Perl        | 3 years |
 |             | Java        | 1.5 years |
 |             | MySQL       | 5 years |
 |             | PHP         | 7 years |
 | Technology  | GIS*        | 6 years |
-|             | BLE         | 1 year  |
+|             | BLE         | 3 year  |
 | SCM*        | git         | 4 years |
 |             | mercurial   | 2 years |
 |             | subversion  | 3 years |
