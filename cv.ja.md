@@ -34,7 +34,7 @@ Linux / FreeBSDサーバの構築や運用を行う傍ら業務システムの�
 
 # Job history
 
-## June 2016 - Present, Software Engineer at tsumug, Inc. (Freelance)
+## June 2017 - Present, Software Engineer at tsumug, Inc. (Freelance)
 
 tsumug社のT!NK（コネクティッド・ロック）向けのiOSアプリケーション、プロトコル設計を担当。
 
@@ -42,6 +42,15 @@ tsumug社のT!NK（コネクティッド・ロック）向けのiOSアプリケ�
 
 - 近距離無線通信技術Aferoの習得
 - LTE接続型デバイス開発技術の習得
+
+
+## Jul 2016 - Present, Tech Staff at DMM.com (Freelance)
+
+Cerevo社での経験を活かし、人材育成研修のコンテンツ制作および講師を担当。
+
+トピック
+
+- [企業向けIoT人材育成研修](https://akiba.dmm-make.com/form/kensyu/iot)
 
 ## June 2015 - Present, Project Manager at Cerevo Inc. (Freelance)
 
