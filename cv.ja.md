@@ -15,7 +15,7 @@
 
 # Personal history
 
-*last update: 2016/06/08*
+*last update: 2018/06/26*
 
 1986年、初めてパーソナルコンピュータに触れる。
 コンピュータで計算処理やグラフィックが作れることに感動し、
@@ -42,6 +42,7 @@ tsumug社のT!NK（コネクティッド・ロック）向けのiOSアプリケ�
 
 - 近距離無線通信技術Aferoの習得
 - LTE接続型デバイス開発技術の習得
+- ハードウェア製品製造プロセス、製品品質管理の習得
 
 
 ## Jul 2016 - Present, Tech Staff at DMM.com (Freelance)
