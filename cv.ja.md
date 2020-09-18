@@ -15,7 +15,7 @@
 
 # Personal history
 
-*last update: 2018/06/26*
+*last update: 2020/09/18*
 
 1986年、初めてパーソナルコンピュータに触れる。
 コンピュータで計算処理やグラフィックが作れることに感動し、
@@ -45,7 +45,7 @@ tsumug社のT!NK（コネクティッド・ロック）向けのiOSアプリケ�
 - ハードウェア製品製造プロセス、製品品質管理の習得
 
 
-## Jul 2016 - Present, Tech Staff at DMM.com (Freelance)
+## Jul 2016 - Dec 2018, Tech Staff at DMM.com (Freelance)
 
 Cerevo社での経験を活かし、人材育成研修のコンテンツ制作および講師を担当。
 
