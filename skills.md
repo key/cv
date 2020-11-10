@@ -32,7 +32,7 @@
 |             | AWS RDS     | 4 years |
 |             | AWS Elasticache | 4 years |
 |             | Google App Engine | 1 year |
-| Management  | Certificated Scrum Master | |
+| Management  | Certified Scrum Master | |
 
 - SCM = Source Code Management
 - GIS = Geographic Information System
