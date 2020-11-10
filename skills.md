@@ -14,6 +14,7 @@
 |             | Java        | 1.5 years |
 |             | MySQL       | 5 years |
 |             | PHP         | 7 years |
+|             | Ruby        | 1.5 years |
 | Technology  | GIS*        | 6 years |
 |             | BLE         | 3 year  |
 | SCM*        | git         | 4 years |
