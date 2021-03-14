@@ -63,7 +63,7 @@ Cerevo社での経験を活かし、人材育成研修のコンテンツ制作�
 
 - [企業向けIoT人材育成研修](https://akiba.dmm-make.com/form/kensyu/iot)
 
-## June 2015 - Present, Project Manager at Cerevo Inc. (Freelance)
+## June 2015 - Dec 2020 Present, Project Manager at Cerevo Inc. (Freelance)
 
 自転車向けGPSデータロガーの企画、設計、マネジメントを担当。
 同時に金属焼結3Dプリントを用いたロードレーサーの開発を担当。
