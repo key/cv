@@ -22,17 +22,17 @@
 |             | subversion  | 3 years |
 | Database    | PostgreSQL  | 8 years |
 |             | MongoDB     | 3 years |
-|             | memcached   | 4 years | 
+|             | DynamoDB    | 2 years |
+|             | memcached   | 4 years |
 |             | Redis       | 3 years |
 |             | Impala / Hadoop | 1 year|
 | OS          | Debian      | 13 years |
 |             | Ubuntu      | 5 years |
 |             | Red Hat     | 5 years |
 |             | Windows Server | 3 years |
-| Cloud       | AWS EC2     | 4 years |
-|             | AWS RDS     | 4 years |
-|             | AWS Elasticache | 4 years |
+| Cloud       | AWS     | 12 years |
 |             | Google App Engine | 1 year |
+| Infrastructure Configuration Management | terraform | 1 year |
 | Management  | Certified Scrum Master | |
 
 - SCM = Source Code Management
