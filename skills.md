@@ -15,9 +15,9 @@
 |                                         | MySQL                  | 5 years            |
 |                                         | PHP                    | 7 years            |
 |                                         | Ruby                   | 1.5 years          |
-| Technology                              | GIS[^1]                | 6 years            |
+| Technology                              | GIS [^1]                | 6 years            |
 |                                         | BLE                    | 3 year             |
-| SCM[^2]                                 | git                    | 4 years            |
+| SCM [^2]                                 | git                    | 4 years            |
 |                                         | mercurial              | 2 years            |
 |                                         | subversion             | 3 years            |
 | Database                                | PostgreSQL             | 8 years            |
