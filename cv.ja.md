@@ -13,7 +13,7 @@
 そのために必要なコミュニケーション、手段や段取りを常に考えて提供していきたい。
 
 
-# Licence / Certification
+# License / Certification
 
 * 認定スクラムマスター
 * 大型自動車免許
