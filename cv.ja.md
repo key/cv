@@ -24,7 +24,7 @@
 
 # Personal history
 
-_last update: 2021/07/27_
+_last update: 2021/10/06_
 
 1986 年、初めてパーソナルコンピュータに触れる。
 コンピュータで計算処理やグラフィックが作れることに感動し、
@@ -41,6 +41,10 @@ Linux / FreeBSD サーバの構築や運用を行う傍ら業務システムの�
 現在は、乗物好きの趣味が通じて自転車向けプロダクトを開発中。
 
 # Job history
+
+## May 2021 - Present, CEO at Kenos, Inc.
+
+WebAPIを備えたハードウェアの設計、開発を行う株式会社Kenosを創業しました。
 
 ## June 2017 - Present, Software Engineer at tsumug, Inc. (Freelance)
 
